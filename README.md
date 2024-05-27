@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Hello, I'm Nurul Musthofa 🐣
 
-## Getting Started
+Welcome to my Portfolio! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me:
 
-First, run the development server:
+🌱 Currently Learning: I'm diving into language JavaScript, Next.Js, TypeScript, Hook, and Prisma.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+👨‍💻 Projects: I enjoy working on open-source projects and contributing to the community. Check out my repositories to see some of the work I've done.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📫 How to Reach Me: Feel free to reach out via :
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## LinkedIn
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+https://www.linkedin.com/in/nurul-musthofa
 
-## Learn More
+## Twitter
 
-To learn more about Next.js, take a look at the following resources:
+https://x.com/mustofawho
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Instagram
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+https://www.instagram.com/mustofawho/
 
-## Deploy on Vercel
+if you have any questions or just want to connect.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+I’m always open to collaboration and excited to work on projects that make a difference. Let's build something amazing together!
